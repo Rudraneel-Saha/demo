@@ -1,0 +1,12 @@
+# Secrets - never commit real API keys
+config.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
